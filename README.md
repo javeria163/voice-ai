@@ -2,6 +2,12 @@
 
 A sub-500ms latency voice AI — speak to it and it responds instantly with a human-like voice. Works in browser and on a real phone number.
 
+## 📸 Screenshots
+
+![Voice AI Orb](screenshot1.png)
+
+![Voice AI Conversation](screenshot2.png)
+
 ## 🎯 Demo
 
 ### 🌐 Web Interface (Everyone)
