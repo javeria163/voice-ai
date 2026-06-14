@@ -3,10 +3,15 @@
 A sub-500ms latency voice AI — speak to it and it responds instantly with a human-like voice. Works in browser and on a real phone number.
 
 ## 🎯 Demo
-- Open the web interface
-- Click the orb
-- Speak naturally
-- AI responds in under 500ms
+
+### 🌐 Web Interface (Everyone)
+- Clone the repo and run locally
+- Open browser → click the orb → speak → AI responds instantly
+
+### 📞 Live Phone Demo (US Residents only)
+- Call **+1 (984) 372-1335**
+- Talk to the AI directly on a real phone call!
+- *Note: Currently available for US callers only*
 
 ## ✨ Features
 - 🎤 **Real-time speech recognition** — hears you instantly
@@ -48,7 +53,7 @@ TWILIO_ACCOUNT_SID=your_twilio_sid
 
 TWILIO_AUTH_TOKEN=your_twilio_token
 
-TWILIO_PHONE_NUMBER=+1xxxxxxxxxx
+TWILIO_PHONE_NUMBER=+19843721335
 
 BASE_URL=your_ngrok_url
 
